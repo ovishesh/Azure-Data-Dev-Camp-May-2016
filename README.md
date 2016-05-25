@@ -8,3 +8,8 @@
     * Click on 'Clone'
     * Paste the link from above and click 'Clone'
 
+
+2. Intelligent Apps
+    * Go to [Intelligent Apps Hands-on Code Lab](https://github.com/Microsoft-Build-2016/CodeLabs-Data/blob/master/Module1-IntelligentApp/README.md)
+    * Follow Instructions
+
