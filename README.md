@@ -13,3 +13,7 @@
     * Go to [Intelligent Apps Hands-on Code Lab](https://github.com/Microsoft-Build-2016/CodeLabs-Data/blob/master/Module1-IntelligentApp/README.md)
     * Follow Instructions
 
+
+3. Machine Learning
+    * [Create your first ML Experiment](https://azure.microsoft.com/en-us/documentation/articles/machine-learning-create-experiment/)
+    * [Follow up on the PartUnlimited example](https://github.com/Microsoft-Build-2016/CodeLabs-Data/blob/master/Module3-MachineLearning/README.md)
