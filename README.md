@@ -24,6 +24,6 @@
     
     
     
-    Survey:
-        * Wellington - [http://aka.ms/DevCampWEL26May](http://aka.ms/DevCampWEL26May)
-        * Auckland - [http://aka.ms/DevCampAKL31May](http://aka.ms/DevCampAKL31May)
+5. Survey:
+    * Wellington - [http://aka.ms/DevCampWEL26May](http://aka.ms/DevCampWEL26May)
+    * Auckland - [http://aka.ms/DevCampAKL31May](http://aka.ms/DevCampAKL31May)
