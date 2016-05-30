@@ -1,6 +1,7 @@
 # Azure Data DevCamp - May 2016
 
 1. Clone Code Labs
+    * Download .NET Core from [https://get.asp.net](https://get.asp.net)
     * Copy this link `https://github.com/Microsoft-Build-2016/CodeLabs-Data.git`
     * Open Visual Studio
     * Go to Team Explorer window
